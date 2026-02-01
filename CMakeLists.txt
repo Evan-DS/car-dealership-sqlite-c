@@ -4,5 +4,5 @@ project(car_db C)
 
 find_package(SQLite3 REQUIRED)
 
-add_executable(car_db src/main.c)
+add_executable(car_db main.c)
 target_link_libraries(car_db SQLite::SQLite3)
