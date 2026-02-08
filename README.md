@@ -1,6 +1,6 @@
 # Car Dealership SQLite (C)
 
-Runnable SQLite project derived from COMP 3150 coursework.
+Runnable SQLite project derived from Database Management coursework.
 
 ## Build
 ```bash
